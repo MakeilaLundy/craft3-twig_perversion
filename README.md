@@ -8,7 +8,7 @@ Making twig do things it really shouldn&#39;t. Twig is not intended to be a gene
 
 ## Installation
 
-1. Install with Composer via `composer require marionnewlevant/craft3-twig_perversion` from your project directory
+1. Install with Composer via `composer require marionnewlevant/twig-perversion` from your project directory
 2. Install plugin in the Craft Control Panel under Settings > Plugins
 
 ## Using Twig Perversion

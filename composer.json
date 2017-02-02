@@ -3,7 +3,6 @@
   "description": "Making twig do things it really shouldn't",
   "version": "1.0.0",
   "type": "craft-plugin",
-  "minimum-stability": "dev",
   "keywords": [
     "craft", "craftcms", "plugin", "twigperversion"
   ],
