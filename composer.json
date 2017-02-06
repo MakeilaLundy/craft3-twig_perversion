@@ -26,7 +26,7 @@
     "schemaVersion": "1.0.0",
     "hasSettings": false,
     "hasCpSection": false,
-    "documentationUrl": "https://github.com/marionnewlevant/craft3-twig_perversion/twigperversion/blob/master/README.md",
-    "changelogUrl": "https://raw.githubusercontent.com/marionnewlevant/craft3-twig_perversion/twigperversion/master/CHANGELOG.md"
+    "documentationUrl": "https://github.com/marionnewlevant/craft3-twig_perversion/blob/master/README.md",
+    "changelogUrl": "https://raw.githubusercontent.com/marionnewlevant/craft3-twig_perversion/master/CHANGELOG.md"
   }
 }
