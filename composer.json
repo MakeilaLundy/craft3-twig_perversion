@@ -22,8 +22,8 @@
     }
   },
   "extra": {
-    "handle": "twigPerversion",
-    "name": "Twig-perversion",
+    "handle": "twig-perversion",
+    "name": "Twig Perversion",
     "schemaVersion": "1.0.0",
     "hasSettings": false,
     "hasCpSection": false,
